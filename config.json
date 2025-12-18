@@ -1,0 +1,12 @@
+{
+    "username":"sazuknen1",
+    "command" : "",
+    "skipShortCut" : "q",
+    "language": "pt-br",
+    "debug" : true,
+    "blacklist-words" : [
+        "labubu","jobgoods","dabliu","irritar","punheta"
+    ],
+    "ascii-only" : true,
+    "dont-say-message-if-contains-utf-8" : false
+}
